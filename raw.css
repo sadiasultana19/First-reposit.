@@ -1,10 +1,10 @@
 p{
-    font-size: 20;
+    font-size: 20px;
     font-style: italic;
     color: crimson;
-    background-color: darkgreen;
+    background-color: rgb(191, 218, 40);
 }
 h2{
     background-color: chartreuse;
-    width: 50px;
+    width: 50%;
 }
